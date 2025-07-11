@@ -1,6 +1,4 @@
-﻿## Java Quiz Website
-
-# 🌐 Java Quiz App Website
+﻿# 🌐 Java Quiz App Website
 
 This is a **simple static HTML website** designed to introduce and showcase my Java-based Quiz App project. The site is deployed live using **GitHub Pages**, and it serves as a clean, professional landing page for the Java quiz console application.
 
@@ -50,16 +48,20 @@ The linked Java project is a command-line quiz game that:
 
 ---
 
-## 🧾 Folder Structure
+## 📁 Folder Structure
 
-```bash
-Javaquizsite/
-├── index.html        # Main website HTML file
-├── README.md         # This documentation file
-├── .git/             # Git internal folder (auto-generated)
-├── styles.css        # Optional external stylesheet (if used)
-├── assets/           # Folder for images, screenshots, etc.
-│   └── screenshot.png
-└── LICENSE           # Optional: open-source license
+---
 
-```
+## 🙋‍♂️ Author
+
+**Sankeerth** – Computer Science Graduate  
+🔗 [GitHub Profile](https://github.com/sankeerth776)
+
+---
+
+## 📄 License
+
+This project is open-source under the [MIT License](LICENSE).
+git add README.md
+git commit -m "Update README with full project details"
+git push
