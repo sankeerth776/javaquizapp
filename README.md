@@ -1,51 +1,50 @@
-# 🌐 Java Quiz App Website
+# 🧠 Java Quiz App
 
-This is a **simple static HTML website** designed to introduce and showcase my Java-based Quiz App project. The site is deployed live using **GitHub Pages**, and it serves as a clean, professional landing page for the Java quiz console application.
+This is a simple and interactive command-line **Quiz Application written in Java**. It presents multiple-choice questions to the user, takes their answers via the console, provides immediate feedback, and finally displays the total score.
 
----
-
-## 🔗 Live Website
-
-👉 [Visit Java Quiz Website](https://sankeerth776.github.io/Javaquizsite)
+This project was created as a practical learning exercise to understand the basics of Java, console input/output, arrays, conditionals, loops, and user interaction.
 
 ---
 
-## 📋 Project Overview
+## 🚀 Features
 
-This project acts as a **portfolio showcase** for my Java Quiz App. It gives a clear introduction to what the quiz app is, what technologies were used, and how to access the code.
-
-The webpage features:
-
-- A bold project header
-- Description of the Java quiz app
-- List of key features
-- Link to the source code repository
-- A responsive, modern layout using pure HTML and CSS
+- 10+ multiple-choice questions
+- Console-based input with real-time interaction
+- Instant correct/wrong answer feedback
+- Final score summary at the end
+- Beginner-friendly code structure
 
 ---
 
-## 🧠 Java Quiz App Project (Referenced)
+## 🎯 How It Works
 
-The linked Java project is a command-line quiz game that:
-
-- Asks 10+ multiple-choice questions
-- Validates user input
-- Displays real-time correct/wrong answers
-- Calculates and displays the final score
-
-👉 View Java Code: [JavaQuizApp Repository](https://github.com/sankeerth776/javaquizapp)
+1. User starts the quiz from the command line
+2. Each question is printed with 4 options
+3. User types `1`, `2`, `3`, or `4` as their answer
+4. The program checks the answer and gives feedback
+5. After all questions, the score is displayed
 
 ---
 
 ## 🖥️ Technologies Used
 
-| Technology     | Purpose                          |
-| -------------- | -------------------------------- |
-| HTML5          | Structure of the webpage         |
-| CSS (internal) | Styling and layout               |
-| GitHub Pages   | Free hosting for static websites |
-| Git            | Version control and deployment   |
+| Tool          | Purpose                        |
+| ------------- | ------------------------------ |
+| Java          | Main programming language      |
+| JDK (e.g. 17) | To compile and run the code    |
+| VS Code       | Code editor                    |
+| Git           | Version control                |
+| GitHub        | Hosting the project repository |
 
 ---
 
-## 📁 Folder Structure
+## 📂 Folder Structure
+
+```bash
+javaquizcode/
+├── QuizApp.java         # ✅ Java source file with quiz logic
+├── quizapp.class        # ⚙️ Compiled file created by `javac`
+├── README.md            # 📘 This documentation file
+├── .gitignore           # 🚫 Ignores unwanted files like `.class`
+└── .git/                # 🔧 Git version control metadata
+```
